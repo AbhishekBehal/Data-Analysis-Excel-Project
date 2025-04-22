@@ -30,6 +30,9 @@ Your Task: Create class intervals for the salaries in the company. This will hel
 
 D. Departmental Analysis: Visualizing data through charts and plots is a crucial part of data analysis.
 
+Refer Hiring analysis.pdf for insights.
+
+
 Your Task: Use a pie chart, bar graph, or any other suitable visualization to show the proportion of people working in different departments.
 
 E. Position Tier Analysis: Different positions within a company often have different tiers or levels.
